@@ -79,7 +79,7 @@ Under the totalsupply variable, click the "totalsupply" button to retrieve the t
 
 - 
 keshav kalya
-keshav4024@gmail.com
+
 
 
 
